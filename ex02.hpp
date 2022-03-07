@@ -13,7 +13,7 @@ public:
     }
 
     T add() { return num1 + num2; /*your code here*/ }
-    T subtract( return num1 - num2;) { /*your code here*/ }
+    T subtract( ) {return num1 - num2; /*your code here*/ }
     T multiply() { return num1 * num2; /*your code here*/ }
     T divide() { return num1 / num2; /*your code here*/ }
 };
