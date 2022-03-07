@@ -1,4 +1,4 @@
-
+#include <bits/stdc++.h>
 using namespace std;
 //change the below code
 // the function below now only works with integers, change it to work with any type
