@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+
+using namespace std;
 
 template <class T>
 void multiples(T& sum, T x, int n)
